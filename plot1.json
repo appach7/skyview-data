@@ -1,0 +1,4256 @@
+[
+    {
+      "coords": [
+        774,
+        4441,
+        1278,
+        4441,
+        1279,
+        4145,
+        1132,
+        4145,
+        1103,
+        4329,
+        1057,
+        4338,
+        790,
+        4364
+      ],
+      "name": "1",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "1",
+        "size": "2700 sq. yard",
+        "status": "blocked"
+      },
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1279,
+        4446,
+        1401,
+        4146
+      ],
+      "name": "2",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "2",
+        "size": "1680 sq. yard",
+        "status": "booked"
+      },
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1522,
+        4148,
+        1402,
+        4442
+      ],
+      "name": "3",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "3",
+        "size": "1680 sq. yard",
+        "status": "blocked"
+      },
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1524,
+        4444,
+        1660,
+        4148
+      ],
+      "name": "4",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "4",
+        "size": "1680 sq. yard",
+        "status": "booked"
+      },
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1661,
+        4444,
+        1784,
+        4444,
+        1805,
+        4431,
+        1809,
+        4412,
+        1808,
+        4370,
+        1809,
+        4146,
+        1659,
+        4146
+      ],
+      "name": "5",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "5",
+        "size": "1680 sq. yard",
+        "status": "available"
+      },
+      "status": "available"
+    },
+    {
+      "coords": [
+        1661,
+        4146,
+        1808,
+        4146,
+        1810,
+        4056,
+        1804,
+        4039,
+        1783,
+        4026,
+        1743,
+        4028,
+        1661,
+        4026
+      ],
+      "name": "6",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "6",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "status": "available"
+    },
+    {
+      "coords": [
+        1521,
+        4145,
+        1659,
+        4027
+      ],
+      "name": "7",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "7",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "status": "available"
+    },
+    {
+      "coords": [
+        1401,
+        4144,
+        1520,
+        4025
+      ],
+      "name": "8",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "8",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1280,
+        4148,
+        1402,
+        4023
+      ],
+      "name": "9",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "9",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1130,
+        4143,
+        1278,
+        4145,
+        1279,
+        4026,
+        1146,
+        4023
+      ],
+      "name": "10",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "10",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "status": "available"
+    },
+    {
+      "coords": [
+        1156,
+        3904,
+        1398,
+        3906,
+        1414,
+        3898,
+        1420,
+        3882,
+        1422,
+        3860,
+        1422,
+        3757,
+        1172,
+        3754
+      ],
+      "name": "11",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "11",
+        "size": "1680 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1172,
+        3754,
+        1423,
+        3755,
+        1423,
+        3605,
+        1191,
+        3606
+      ],
+      "name": "12",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "12",
+        "size": "1680 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1189,
+        3607,
+        1425,
+        3605,
+        1420,
+        3504,
+        1197,
+        3505
+      ],
+      "name": "13",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "13",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1200,
+        3507,
+        1423,
+        3507,
+        1419,
+        3407,
+        1208,
+        3405
+      ],
+      "name": "14",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "14",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1208,
+        3408,
+        1420,
+        3406,
+        1420,
+        3313,
+        1219,
+        3310
+      ],
+      "name": "15",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "15",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1217,
+        3306,
+        1420,
+        3308,
+        1420,
+        3213,
+        1224,
+        3211
+      ],
+      "name": "16",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "16",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1229,
+        3208,
+        1425,
+        3212,
+        1422,
+        3113,
+        1238,
+        3113,
+        1229,
+        3143
+      ],
+      "name": "17",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "17",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1236,
+        3110,
+        1425,
+        3112,
+        1423,
+        3012,
+        1248,
+        3013
+      ],
+      "name": "18",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "18",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1246,
+        3014,
+        1423,
+        3013,
+        1423,
+        2916,
+        1265,
+        2916
+      ],
+      "name": "19",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "19",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1262,
+        2914,
+        1423,
+        2913,
+        1425,
+        2860,
+        1420,
+        2832,
+        1412,
+        2819,
+        1393,
+        2815,
+        1362,
+        2815,
+        1276,
+        2813,
+        1273,
+        2848
+      ],
+      "name": "20",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "20",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1663,
+        2816,
+        1665,
+        2912,
+        1522,
+        2914,
+        1522,
+        2877,
+        1522,
+        2844,
+        1529,
+        2824,
+        1543,
+        2814
+      ],
+      "name": "21",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "21",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1523,
+        2913,
+        1664,
+        2913,
+        1664,
+        3016,
+        1523,
+        3016
+      ],
+      "name": "22",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "22",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1523,
+        3015,
+        1664,
+        3015,
+        1662,
+        3113,
+        1521,
+        3112
+      ],
+      "name": "23",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "23",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1524,
+        3113,
+        1524,
+        3211,
+        1661,
+        3211,
+        1661,
+        3110
+      ],
+      "name": "24",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "24",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1524,
+        3211,
+        1663,
+        3211,
+        1663,
+        3311,
+        1522,
+        3311
+      ],
+      "name": "25",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "25",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1524,
+        3309,
+        1524,
+        3409,
+        1663,
+        3409,
+        1663,
+        3308
+      ],
+      "name": "26",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "26",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1523,
+        3410,
+        1523,
+        3507,
+        1661,
+        3507,
+        1661,
+        3407
+      ],
+      "name": "27",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "27",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1522,
+        3509,
+        1522,
+        3605,
+        1665,
+        3609,
+        1662,
+        3509
+      ],
+      "name": "28",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "28",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1522,
+        3608,
+        1524,
+        3757,
+        1663,
+        3757,
+        1661,
+        3610
+      ],
+      "name": "29",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "29",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1521,
+        3758,
+        1520,
+        3876,
+        1527,
+        3892,
+        1540,
+        3902,
+        1559,
+        3905,
+        1584,
+        3903,
+        1661,
+        3908,
+        1661,
+        3837,
+        1661,
+        3756
+      ],
+      "name": "30",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "30",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1665,
+        3905,
+        1781,
+        3908,
+        1804,
+        3899,
+        1811,
+        3880,
+        1814,
+        3850,
+        1809,
+        3761,
+        1731,
+        3756,
+        1662,
+        3759
+      ],
+      "name": "31",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "31",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1661,
+        3756,
+        1811,
+        3758,
+        1811,
+        3636,
+        1811,
+        3610,
+        1729,
+        3606,
+        1662,
+        3607
+      ],
+      "name": "32",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "32",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1663,
+        3607,
+        1810,
+        3607,
+        1810,
+        3508,
+        1661,
+        3509
+      ],
+      "name": "33",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "33",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1663,
+        3509,
+        1809,
+        3509,
+        1810,
+        3411,
+        1663,
+        3411
+      ],
+      "name": "34",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "34",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1661,
+        3409,
+        1810,
+        3409,
+        1810,
+        3313,
+        1663,
+        3313
+      ],
+      "name": "35",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "35",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1661,
+        3310,
+        1808,
+        3313,
+        1811,
+        3214,
+        1661,
+        3214
+      ],
+      "name": "36",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "36",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1664,
+        3212,
+        1810,
+        3214,
+        1812,
+        3115,
+        1663,
+        3111
+      ],
+      "name": "37",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "37",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1663,
+        3111,
+        1812,
+        3117,
+        1810,
+        3013,
+        1664,
+        3014
+      ],
+      "name": "38",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "38",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1664,
+        3017,
+        1811,
+        3013,
+        1814,
+        2918,
+        1666,
+        2914
+      ],
+      "name": "39",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "39",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1665,
+        2915,
+        1811,
+        2915,
+        1813,
+        2863,
+        1809,
+        2836,
+        1797,
+        2820,
+        1763,
+        2817,
+        1665,
+        2819
+      ],
+      "name": "40",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "40",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1664,
+        2717,
+        1738,
+        2717,
+        1780,
+        2718,
+        1799,
+        2714,
+        1810,
+        2704,
+        1813,
+        2688,
+        1814,
+        2650,
+        1811,
+        2620,
+        1730,
+        2619,
+        1664,
+        2622
+      ],
+      "name": "41",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "41",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1664,
+        2617,
+        1815,
+        2619,
+        1813,
+        2524,
+        1664,
+        2520
+      ],
+      "name": "42",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "42",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1665,
+        2518,
+        1817,
+        2523,
+        1814,
+        2423,
+        1667,
+        2421
+      ],
+      "name": "43",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "43",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1667,
+        2421,
+        1814,
+        2424,
+        1814,
+        2326,
+        1668,
+        2326
+      ],
+      "name": "44",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "44",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1666,
+        2322,
+        1816,
+        2326,
+        1818,
+        2226,
+        1664,
+        2225
+      ],
+      "name": "45",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "45",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1666,
+        2221,
+        1814,
+        2225,
+        1816,
+        2126,
+        1669,
+        2125
+      ],
+      "name": "46",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "46",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1666,
+        2124,
+        1818,
+        2126,
+        1814,
+        2029,
+        1667,
+        2026
+      ],
+      "name": "47",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "47",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1669,
+        2026,
+        1816,
+        2029,
+        1818,
+        1931,
+        1667,
+        1929
+      ],
+      "name": "48",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "48",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1668,
+        1927,
+        1816,
+        1929,
+        1820,
+        1781,
+        1669,
+        1778
+      ],
+      "name": "49",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "49",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1670,
+        1776,
+        1814,
+        1778,
+        1818,
+        1665,
+        1819,
+        1637,
+        1805,
+        1616,
+        1786,
+        1605,
+        1734,
+        1607,
+        1669,
+        1610
+      ],
+      "name": "50",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "50",
+        "size": "1680 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1666,
+        2717,
+        1664,
+        2623,
+        1525,
+        2619,
+        1525,
+        2676,
+        1526,
+        2698,
+        1533,
+        2706,
+        1542,
+        2714,
+        1563,
+        2717
+      ],
+      "name": "51",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "51",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1666,
+        2619,
+        1666,
+        2522,
+        1526,
+        2519,
+        1525,
+        2619
+      ],
+      "name": "52",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "52",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1667,
+        2521,
+        1666,
+        2423,
+        1528,
+        2420,
+        1526,
+        2521
+      ],
+      "name": "53",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "53",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1526,
+        2419,
+        1666,
+        2421,
+        1667,
+        2321,
+        1526,
+        2324
+      ],
+      "name": "54",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "54",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1526,
+        2321,
+        1666,
+        2321,
+        1666,
+        2224,
+        1525,
+        2221
+      ],
+      "name": "55",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "55",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1526,
+        2224,
+        1666,
+        2224,
+        1666,
+        2124,
+        1525,
+        2126
+      ],
+      "name": "56",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "56",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1529,
+        2125,
+        1666,
+        2125,
+        1666,
+        2027,
+        1528,
+        2027
+      ],
+      "name": "57",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "57",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1526,
+        2027,
+        1667,
+        2027,
+        1666,
+        1930,
+        1528,
+        1927
+      ],
+      "name": "58",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "58",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1529,
+        1927,
+        1667,
+        1927,
+        1669,
+        1778,
+        1528,
+        1778
+      ],
+      "name": "59",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "59",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1528,
+        1778,
+        1669,
+        1776,
+        1667,
+        1607,
+        1558,
+        1605,
+        1537,
+        1611,
+        1531,
+        1630
+      ],
+      "name": "60",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "60",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        972,
+        1355,
+        1130,
+        1360,
+        1127,
+        1508,
+        999,
+        1507,
+        986,
+        1464,
+        972,
+        1415
+      ],
+      "name": "61",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "61",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1132,
+        1507,
+        1230,
+        1508,
+        1229,
+        1358,
+        1132,
+        1356
+      ],
+      "name": "62",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "62",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1232,
+        1508,
+        1328,
+        1507,
+        1330,
+        1360,
+        1229,
+        1358
+      ],
+      "name": "63",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "63",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1330,
+        1505,
+        1330,
+        1358,
+        1428,
+        1356,
+        1430,
+        1445,
+        1430,
+        1478,
+        1419,
+        1502,
+        1396,
+        1507
+      ],
+      "name": "64",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "64",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1328,
+        1356,
+        1426,
+        1357,
+        1430,
+        1247,
+        1425,
+        1226,
+        1412,
+        1212,
+        1390,
+        1212,
+        1330,
+        1209
+      ],
+      "name": "65",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "65",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1232,
+        1361,
+        1330,
+        1357,
+        1328,
+        1210,
+        1229,
+        1207
+      ],
+      "name": "66",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "66",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1132,
+        1359,
+        1232,
+        1361,
+        1232,
+        1209,
+        1129,
+        1209
+      ],
+      "name": "67",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "67",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        969,
+        1356,
+        1130,
+        1357,
+        1130,
+        1205,
+        991,
+        1207
+      ],
+      "name": "68",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "68",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1133,
+        730,
+        1129,
+        911,
+        1279,
+        911,
+        1279,
+        726,
+        1203,
+        718
+      ],
+      "name": "69",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "69",
+        "size": "2700 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1130,
+        911,
+        1279,
+        911,
+        1279,
+        1011,
+        1130,
+        1012
+      ],
+      "name": "70",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "70",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1129,
+        1011,
+        1281,
+        1011,
+        1279,
+        1109,
+        1149,
+        1110,
+        1132,
+        1091
+      ],
+      "name": "71",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "71",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1279,
+        1012,
+        1430,
+        1012,
+        1431,
+        1082,
+        1417,
+        1107,
+        1373,
+        1109,
+        1282,
+        1109
+      ],
+      "name": "72",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "72",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1281,
+        1010,
+        1431,
+        1013,
+        1431,
+        914,
+        1279,
+        911
+      ],
+      "name": "73",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "73",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1279,
+        909,
+        1433,
+        914,
+        1431,
+        787,
+        1412,
+        773,
+        1311,
+        735,
+        1292,
+        722,
+        1281,
+        724
+      ],
+      "name": "74",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "74",
+        "size": "1680 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1533,
+        800,
+        1529,
+        915,
+        1672,
+        915,
+        1672,
+        817,
+        1605,
+        811,
+        1571,
+        804
+      ],
+      "name": "75",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "75",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1533,
+        917,
+        1531,
+        1012,
+        1670,
+        1013,
+        1670,
+        917
+      ],
+      "name": "76",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "76",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1533,
+        1015,
+        1672,
+        1015,
+        1670,
+        1115,
+        1529,
+        1115
+      ],
+      "name": "77",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "77",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1533,
+        1113,
+        1672,
+        1116,
+        1669,
+        1215,
+        1528,
+        1213
+      ],
+      "name": "78",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "78",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1531,
+        1216,
+        1672,
+        1216,
+        1673,
+        1311,
+        1531,
+        1313
+      ],
+      "name": "79",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "79",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1528,
+        1312,
+        1672,
+        1312,
+        1670,
+        1409,
+        1528,
+        1410
+      ],
+      "name": "80",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "80",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1528,
+        1410,
+        1672,
+        1410,
+        1670,
+        1510,
+        1550,
+        1510,
+        1534,
+        1496,
+        1528,
+        1472
+      ],
+      "name": "81",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "81",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1672,
+        1510,
+        1792,
+        1508,
+        1805,
+        1502,
+        1816,
+        1486,
+        1819,
+        1456,
+        1818,
+        1410,
+        1711,
+        1413,
+        1669,
+        1410
+      ],
+      "name": "82",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "82",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1672,
+        1409,
+        1818,
+        1410,
+        1818,
+        1312,
+        1672,
+        1315
+      ],
+      "name": "83",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "83",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1672,
+        1310,
+        1818,
+        1312,
+        1818,
+        1214,
+        1672,
+        1212
+      ],
+      "name": "84",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "84",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1670,
+        1212,
+        1819,
+        1212,
+        1819,
+        1117,
+        1669,
+        1115
+      ],
+      "name": "85",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "85",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1672,
+        1112,
+        1819,
+        1115,
+        1819,
+        1018,
+        1675,
+        1018
+      ],
+      "name": "86",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "86",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1673,
+        1016,
+        1819,
+        1016,
+        1821,
+        854,
+        1781,
+        842,
+        1738,
+        832,
+        1696,
+        821,
+        1675,
+        816
+      ],
+      "name": "87",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "87",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2003,
+        925,
+        2002,
+        1117,
+        2149,
+        1115,
+        2151,
+        968
+      ],
+      "name": "88",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "88",
+        "size": "1680 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1999,
+        1117,
+        2000,
+        1214,
+        2151,
+        1214,
+        2149,
+        1119
+      ],
+      "name": "89",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "89",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2002,
+        1214,
+        2000,
+        1312,
+        2151,
+        1312,
+        2149,
+        1217
+      ],
+      "name": "90",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "90",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2002,
+        1317,
+        2000,
+        1413,
+        2149,
+        1412,
+        2151,
+        1315
+      ],
+      "name": "91",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "91",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1999,
+        1413,
+        1999,
+        1480,
+        2007,
+        1500,
+        2029,
+        1511,
+        2149,
+        1510,
+        2148,
+        1416
+      ],
+      "name": "92",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "92",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2152,
+        971,
+        2151,
+        1215,
+        2300,
+        1216,
+        2303,
+        1050,
+        2300,
+        1021,
+        2265,
+        1004,
+        2216,
+        985
+      ],
+      "name": "93",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "93",
+        "size": "2700 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2148,
+        1214,
+        2151,
+        1315,
+        2301,
+        1315,
+        2301,
+        1218
+      ],
+      "name": "94",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "94",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2151,
+        1315,
+        2300,
+        1318,
+        2301,
+        1415,
+        2149,
+        1413
+      ],
+      "name": "95",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "95",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2151,
+        1416,
+        2300,
+        1415,
+        2301,
+        1483,
+        2290,
+        1503,
+        2271,
+        1510,
+        2217,
+        1510,
+        2151,
+        1511
+      ],
+      "name": "96",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "96",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        3318,
+        1613,
+        3443,
+        1614,
+        3461,
+        1630,
+        3467,
+        1649,
+        3467,
+        1689,
+        3469,
+        1787,
+        3321,
+        1784
+      ],
+      "name": "97",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "97",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        3320,
+        1787,
+        3467,
+        1788,
+        3470,
+        1828,
+        3467,
+        1885,
+        3469,
+        1936,
+        3320,
+        1934
+      ],
+      "name": "98",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "98",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        3320,
+        1939,
+        3467,
+        1939,
+        3467,
+        2035,
+        3321,
+        2037
+      ],
+      "name": "99",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "99",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        3317,
+        2037,
+        3467,
+        2036,
+        3469,
+        2134,
+        3317,
+        2132
+      ],
+      "name": "100",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "100",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        3318,
+        2134,
+        3467,
+        2134,
+        3469,
+        2232,
+        3321,
+        2229
+      ],
+      "name": "101",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "101",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        3317,
+        2232,
+        3467,
+        2231,
+        3467,
+        2330,
+        3317,
+        2332
+      ],
+      "name": "102",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "102",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        3320,
+        2332,
+        3467,
+        2333,
+        3469,
+        2432,
+        3318,
+        2430
+      ],
+      "name": "103",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "103",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        3315,
+        2433,
+        3469,
+        2429,
+        3467,
+        2530,
+        3317,
+        2527
+      ],
+      "name": "104",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "104",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        3317,
+        2531,
+        3467,
+        2530,
+        3469,
+        2628,
+        3318,
+        2628
+      ],
+      "name": "105",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "105",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        3317,
+        2628,
+        3467,
+        2631,
+        3469,
+        2696,
+        3461,
+        2714,
+        3442,
+        2728,
+        3389,
+        2726,
+        3317,
+        2723
+      ],
+      "name": "106",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "106",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        3318,
+        2725,
+        3317,
+        2625,
+        3195,
+        2628,
+        3191,
+        2701,
+        3209,
+        2726
+      ],
+      "name": "107",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "107",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        3193,
+        2625,
+        3318,
+        2625,
+        3317,
+        2530,
+        3193,
+        2525
+      ],
+      "name": "108",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "108",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        3191,
+        2525,
+        3315,
+        2528,
+        3318,
+        2430,
+        3193,
+        2430
+      ],
+      "name": "109",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "109",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        3193,
+        2429,
+        3318,
+        2429,
+        3317,
+        2330,
+        3193,
+        2332
+      ],
+      "name": "110",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "110",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        3193,
+        2235,
+        3317,
+        2235,
+        3317,
+        2331,
+        3195,
+        2331
+      ],
+      "name": "111",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "111",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        3195,
+        2133,
+        3318,
+        2133,
+        3317,
+        2235,
+        3195,
+        2232
+      ],
+      "name": "112",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "112",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        3195,
+        2033,
+        3317,
+        2035,
+        3317,
+        2133,
+        3195,
+        2130
+      ],
+      "name": "113",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "113",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        3195,
+        1936,
+        3318,
+        1934,
+        3318,
+        2033,
+        3195,
+        2034
+      ],
+      "name": "114",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "114",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        3195,
+        1786,
+        3317,
+        1787,
+        3320,
+        1934,
+        3193,
+        1934
+      ],
+      "name": "115",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "115",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        3195,
+        1785,
+        3321,
+        1787,
+        3317,
+        1616,
+        3236,
+        1614,
+        3210,
+        1619,
+        3193,
+        1633,
+        3193,
+        1707
+      ],
+      "name": "116",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "116",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2942,
+        1786,
+        3094,
+        1786,
+        3092,
+        1638,
+        3081,
+        1621,
+        3058,
+        1613,
+        3013,
+        1615,
+        2947,
+        1615
+      ],
+      "name": "117",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "117",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2793,
+        1787,
+        2945,
+        1784,
+        2945,
+        1616,
+        2798,
+        1615
+      ],
+      "name": "118",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "118",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2695,
+        1782,
+        2795,
+        1786,
+        2793,
+        1615,
+        2696,
+        1610
+      ],
+      "name": "119",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "119",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2546,
+        1781,
+        2696,
+        1784,
+        2692,
+        1613,
+        2549,
+        1613
+      ],
+      "name": "120",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "120",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2399,
+        1782,
+        2546,
+        1782,
+        2546,
+        1615,
+        2403,
+        1611
+      ],
+      "name": "121",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "121",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2299,
+        1780,
+        2399,
+        1780,
+        2397,
+        1614,
+        2299,
+        1611
+      ],
+      "name": "122",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "122",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2147,
+        1780,
+        2299,
+        1782,
+        2299,
+        1614,
+        2147,
+        1612
+      ],
+      "name": "123",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "123",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1997,
+        1780,
+        2147,
+        1780,
+        2152,
+        1612,
+        2031,
+        1608,
+        2012,
+        1614,
+        1997,
+        1635,
+        1995,
+        1699
+      ],
+      "name": "124",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "124",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1999,
+        1782,
+        2145,
+        1781,
+        2149,
+        1931,
+        2026,
+        1928,
+        2004,
+        1923,
+        1997,
+        1901
+      ],
+      "name": "125",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "125",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2146,
+        1782,
+        2297,
+        1782,
+        2300,
+        1931,
+        2149,
+        1928
+      ],
+      "name": "126",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "126",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2300,
+        1782,
+        2401,
+        1784,
+        2398,
+        1931,
+        2298,
+        1930
+      ],
+      "name": "127",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "127",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2400,
+        1786,
+        2547,
+        1782,
+        2544,
+        1933,
+        2401,
+        1931
+      ],
+      "name": "128",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "128",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2549,
+        1784,
+        2694,
+        1787,
+        2696,
+        1934,
+        2547,
+        1930
+      ],
+      "name": "129",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "129",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2696,
+        1782,
+        2794,
+        1785,
+        2794,
+        1932,
+        2694,
+        1932
+      ],
+      "name": "130",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "130",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2797,
+        1788,
+        2944,
+        1785,
+        2946,
+        1934,
+        2796,
+        1937
+      ],
+      "name": "131",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "131",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2944,
+        1785,
+        3092,
+        1785,
+        3095,
+        1902,
+        3090,
+        1924,
+        3076,
+        1932,
+        3032,
+        1935,
+        2946,
+        1931
+      ],
+      "name": "132",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "132",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1997,
+        2125,
+        2147,
+        2129,
+        2147,
+        2032,
+        2027,
+        2026,
+        2011,
+        2030,
+        1998,
+        2048
+      ],
+      "name": "133",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "133",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1997,
+        2129,
+        2147,
+        2130,
+        2144,
+        2228,
+        1995,
+        2227
+      ],
+      "name": "134",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "134",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1997,
+        2230,
+        2147,
+        2230,
+        2144,
+        2327,
+        1995,
+        2327
+      ],
+      "name": "135",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "135",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1995,
+        2328,
+        1995,
+        2423,
+        2147,
+        2425,
+        2142,
+        2327
+      ],
+      "name": "136",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "136",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1993,
+        2425,
+        1995,
+        2524,
+        2149,
+        2523,
+        2142,
+        2425
+      ],
+      "name": "137",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "137",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1997,
+        2526,
+        2147,
+        2524,
+        2145,
+        2624,
+        1992,
+        2621
+      ],
+      "name": "138",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "138",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1995,
+        2624,
+        2147,
+        2624,
+        2144,
+        2721,
+        1995,
+        2722
+      ],
+      "name": "139",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "139",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1992,
+        2721,
+        2141,
+        2721,
+        2144,
+        2821,
+        1995,
+        2819
+      ],
+      "name": "140",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "140",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1995,
+        2819,
+        2145,
+        2819,
+        2144,
+        2917,
+        1992,
+        2917
+      ],
+      "name": "141",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "141",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1995,
+        2919,
+        2142,
+        2919,
+        2142,
+        3016,
+        1995,
+        3019
+      ],
+      "name": "142",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "142",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1996,
+        3017,
+        2142,
+        3019,
+        2143,
+        3118,
+        1996,
+        3115
+      ],
+      "name": "143",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "143",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        1991,
+        3115,
+        2142,
+        3117,
+        2142,
+        3216,
+        1995,
+        3215
+      ],
+      "name": "144",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "144",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        1991,
+        3215,
+        2142,
+        3216,
+        2140,
+        3313,
+        1993,
+        3311
+      ],
+      "name": "145",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "145",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        1993,
+        3316,
+        2142,
+        3315,
+        2140,
+        3414,
+        1990,
+        3413
+      ],
+      "name": "146",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "146",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        1990,
+        3413,
+        2140,
+        3413,
+        2140,
+        3509,
+        2015,
+        3509,
+        1998,
+        3500,
+        1988,
+        3475
+      ],
+      "name": "147",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "147",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2139,
+        3413,
+        2294,
+        3413,
+        2292,
+        3483,
+        2284,
+        3508,
+        2259,
+        3514,
+        2186,
+        3514,
+        2140,
+        3509
+      ],
+      "name": "148",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "148",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2142,
+        3315,
+        2294,
+        3316,
+        2294,
+        3414,
+        2140,
+        3411
+      ],
+      "name": "149",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "149",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2143,
+        3216,
+        2291,
+        3216,
+        2294,
+        3316,
+        2142,
+        3312
+      ],
+      "name": "150",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "150",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2143,
+        3118,
+        2294,
+        3118,
+        2294,
+        3214,
+        2142,
+        3213
+      ],
+      "name": "151",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "151",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2142,
+        3018,
+        2294,
+        3018,
+        2296,
+        3116,
+        2140,
+        3116
+      ],
+      "name": "152",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "152",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2143,
+        3016,
+        2295,
+        3021,
+        2294,
+        2921,
+        2143,
+        2918
+      ],
+      "name": "153",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "153",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2145,
+        2918,
+        2294,
+        2919,
+        2295,
+        2820,
+        2146,
+        2821
+      ],
+      "name": "154",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "154",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2143,
+        2720,
+        2295,
+        2720,
+        2295,
+        2821,
+        2148,
+        2818
+      ],
+      "name": "155",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "155",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2146,
+        2620,
+        2295,
+        2622,
+        2295,
+        2720,
+        2146,
+        2720
+      ],
+      "name": "156",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "156",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2146,
+        2526,
+        2295,
+        2526,
+        2295,
+        2623,
+        2148,
+        2621
+      ],
+      "name": "157",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "157",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2145,
+        2425,
+        2297,
+        2426,
+        2295,
+        2526,
+        2148,
+        2522
+      ],
+      "name": "158",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "158",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2145,
+        2326,
+        2294,
+        2326,
+        2295,
+        2424,
+        2146,
+        2426
+      ],
+      "name": "159",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "159",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2146,
+        2227,
+        2295,
+        2226,
+        2295,
+        2327,
+        2145,
+        2326
+      ],
+      "name": "160",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "160",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2149,
+        2128,
+        2298,
+        2131,
+        2297,
+        2227,
+        2146,
+        2227
+      ],
+      "name": "161",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "161",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2146,
+        2032,
+        2146,
+        2129,
+        2298,
+        2132,
+        2297,
+        2068,
+        2292,
+        2041,
+        2276,
+        2030
+      ],
+      "name": "162",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "162",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2399,
+        2128,
+        2545,
+        2131,
+        2545,
+        2031,
+        2429,
+        2029,
+        2405,
+        2045,
+        2397,
+        2080
+      ],
+      "name": "163",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "163",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2399,
+        2229,
+        2546,
+        2229,
+        2545,
+        2131,
+        2399,
+        2129
+      ],
+      "name": "164",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "164",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2399,
+        2231,
+        2548,
+        2231,
+        2545,
+        2326,
+        2399,
+        2329
+      ],
+      "name": "165",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "165",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2399,
+        2427,
+        2546,
+        2427,
+        2546,
+        2326,
+        2399,
+        2327
+      ],
+      "name": "166",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "166",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2396,
+        2426,
+        2545,
+        2426,
+        2543,
+        2524,
+        2397,
+        2526
+      ],
+      "name": "167",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "167",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2394,
+        2526,
+        2545,
+        2524,
+        2545,
+        2626,
+        2399,
+        2626
+      ],
+      "name": "168",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "168",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2397,
+        2627,
+        2545,
+        2626,
+        2545,
+        2724,
+        2399,
+        2724
+      ],
+      "name": "169",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "169",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2397,
+        2722,
+        2545,
+        2724,
+        2545,
+        2819,
+        2396,
+        2824
+      ],
+      "name": "170",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "170",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2396,
+        2824,
+        2545,
+        2824,
+        2545,
+        2922,
+        2399,
+        2922
+      ],
+      "name": "171",
+      "plotDetails": {
+        "faceDirection": "NORTH-WEST",
+        "number": "171",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2396,
+        2920,
+        2545,
+        2922,
+        2545,
+        3018,
+        2394,
+        3018
+      ],
+      "name": "172",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "172",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2396,
+        3020,
+        2545,
+        3020,
+        2543,
+        3118,
+        2396,
+        3120
+      ],
+      "name": "173",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "173",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2399,
+        3116,
+        2543,
+        3119,
+        2545,
+        3219,
+        2396,
+        3219
+      ],
+      "name": "174",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "174",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2393,
+        3220,
+        2543,
+        3220,
+        2543,
+        3315,
+        2394,
+        3315
+      ],
+      "name": "175",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "175",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2393,
+        3316,
+        2393,
+        3415,
+        2542,
+        3414,
+        2542,
+        3317
+      ],
+      "name": "176",
+      "plotDetails": {
+        "faceDirection": "NORTH",
+        "number": "176",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2396,
+        3419,
+        2542,
+        3415,
+        2542,
+        3512,
+        2423,
+        3514,
+        2399,
+        3499,
+        2393,
+        3477
+      ],
+      "name": "177",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "177",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2543,
+        3417,
+        2692,
+        3415,
+        2690,
+        3487,
+        2679,
+        3510,
+        2659,
+        3515,
+        2572,
+        3515,
+        2545,
+        3514
+      ],
+      "name": "178",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "178",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2543,
+        3415,
+        2689,
+        3415,
+        2690,
+        3317,
+        2545,
+        3319
+      ],
+      "name": "179",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "179",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2546,
+        3317,
+        2690,
+        3317,
+        2692,
+        3219,
+        2546,
+        3217
+      ],
+      "name": "180",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "180",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2545,
+        3121,
+        2695,
+        3119,
+        2690,
+        3216,
+        2548,
+        3216
+      ],
+      "name": "181",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "181",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2542,
+        3119,
+        2692,
+        3117,
+        2694,
+        3020,
+        2545,
+        3020
+      ],
+      "name": "182",
+      "plotDetails": {
+        "faceDirection": "NORTH-EAST",
+        "number": "182",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    },
+    {
+      "coords": [
+        2548,
+        2921,
+        2690,
+        2923,
+        2690,
+        3020,
+        2545,
+        3020
+      ],
+      "name": "183",
+      "plotDetails": {
+        "faceDirection": "SOUTH",
+        "number": "183",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2546,
+        2823,
+        2694,
+        2823,
+        2691,
+        2921,
+        2545,
+        2919
+      ],
+      "name": "184",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "184",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2545,
+        2726,
+        2692,
+        2725,
+        2692,
+        2821,
+        2548,
+        2820
+      ],
+      "name": "185",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "185",
+        "size": "750 sq. yard",
+        "status": "sold"
+      },
+      "shape": "poly",
+      "status": "sold"
+    },
+    {
+      "coords": [
+        2543,
+        2624,
+        2692,
+        2625,
+        2692,
+        2723,
+        2548,
+        2726
+      ],
+      "name": "186",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "186",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2544,
+        2524,
+        2694,
+        2528,
+        2692,
+        2628,
+        2545,
+        2623
+      ],
+      "name": "187",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "187",
+        "size": "750 sq. yard",
+        "status": "blocked"
+      },
+      "shape": "poly",
+      "status": "blocked"
+    },
+    {
+      "coords": [
+        2545,
+        2427,
+        2695,
+        2428,
+        2694,
+        2526,
+        2544,
+        2522
+      ],
+      "name": "188",
+      "plotDetails": {
+        "faceDirection": "EAST",
+        "number": "188",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2545,
+        2328,
+        2694,
+        2330,
+        2694,
+        2427,
+        2544,
+        2424
+      ],
+      "name": "189",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "189",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2547,
+        2232,
+        2696,
+        2232,
+        2695,
+        2328,
+        2548,
+        2327
+      ],
+      "name": "190",
+      "plotDetails": {
+        "faceDirection": "WEST",
+        "number": "190",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2548,
+        2133,
+        2694,
+        2132,
+        2692,
+        2229,
+        2543,
+        2230
+      ],
+      "name": "191",
+      "plotDetails": {
+        "faceDirection": "SOUTH-EAST",
+        "number": "191",
+        "size": "750 sq. yard",
+        "status": "booked"
+      },
+      "shape": "poly",
+      "status": "booked"
+    },
+    {
+      "coords": [
+        2547,
+        2031,
+        2667,
+        2034,
+        2680,
+        2035,
+        2687,
+        2043,
+        2698,
+        2061,
+        2695,
+        2092,
+        2695,
+        2133,
+        2548,
+        2130
+      ],
+      "name": "192",
+      "plotDetails": {
+        "faceDirection": "SOUTH-WEST",
+        "number": "192",
+        "size": "750 sq. yard",
+        "status": "available"
+      },
+      "shape": "poly",
+      "status": "available"
+    }
+  ]
